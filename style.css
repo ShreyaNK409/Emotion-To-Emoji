@@ -1,0 +1,54 @@
+body {
+  color: yellow;
+  background: #000000;
+}
+
+span {
+  font-size: 30px;
+}
+
+#camera,
+#result {
+  border: 2px dashed red;
+  width: 350px;
+  height: 300px;
+
+}
+
+#emotion_1,
+#emotion_2 {
+  color: yellow;
+}
+
+.emotion_name {
+  font-size: 40px;
+  color: gold;
+}
+
+.emoji {
+  font-size: 48px;
+}
+
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+label {
+  font-size: 14px;
+  color: yellow;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: red
+}
+#hehe
+{
+  color:yellow;
+}
+
+h3
+{
+  color: white;
+}
+
